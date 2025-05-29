@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hamed</h1>
+
+
 <h3 align="center">A passionate Fullstack developer and Software developer</h3>
+
+
 <img src="https://i.imgur.com/rTZkf4K.gif" align="right">
+
+
 - 🌱 I’m currently learning **Django**
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/Hamed-070](https://github.com/Hamed-070)
+
 
 - 📫 How to reach me **heidarihamed404@gmail.com**
 
