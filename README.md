@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamed</h1>
 
 
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A simple Web developer</h3>
 
 
 <img src="https://i.imgur.com/rTZkf4K.gif" align="right">
@@ -23,5 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamed-070&show_icons=true&locale=en" alt="hamed-070" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamed-070&" alt="hamed-070" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamed-070&" alt="hamed-070" /></p> 
+
+
+
 
