@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hamed</h1>
-<h3 align="center">A simple Fullstack Developer 🚀</h3>
+<h3 align="center">A simple Programmer</h3>
 
 ---
 
