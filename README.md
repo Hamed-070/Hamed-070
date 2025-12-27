@@ -16,9 +16,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **personal projects** and improving my portfolio  
-- 🌱 Learning **React, Django, and Docker** for building optimized fullstack applications  
-- 💬 Ask me about **React, Django, DRF, APIs, or fullstack development**  
-- ⚡ Fun fact: I once struggled to center a div 😂  
+- 🌱 Learning **React, Django** for building optimized fullstack applications  
 
 ---
 
