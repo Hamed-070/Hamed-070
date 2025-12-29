@@ -22,18 +22,9 @@
 
 ### 🛠️ My Tech Stack  
 
-#### 🌐 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js" />
-</p>
-
-#### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,python" />
-</p>
-
-#### 🛠 DevOps & Tools
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,python" /> 
   <img src="https://skillicons.dev/icons?i=linux,git" />
 </p>
 
